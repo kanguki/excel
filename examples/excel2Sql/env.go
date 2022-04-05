@@ -1,0 +1,8 @@
+package excel2sql
+
+const (
+	TABLE_NAME       = "TABLE_NAME"
+	EXCEL_FILE_PATH  = "EXCEL_FILE_PATH"
+	EXCEL_FILE_SHEET = "EXCEL_FILE_SHEET"
+	SQL_OUT_PATH     = "SQL_OUT_PATH"
+)
