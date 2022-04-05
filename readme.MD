@@ -1,5 +1,1 @@
-Run examples:
-
-eg:
-
-make excel2Sql
+I was doing a task that was tedious so I make code for it.
